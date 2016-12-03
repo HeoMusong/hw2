@@ -1,0 +1,51 @@
+@CHARSET "UTF-8";
+
+.formtable {
+	width:400px;
+	border: 1px solid blue;
+	margin: 50px;
+	padding: 20px;
+}
+
+.formtable2 {
+	width:600px;
+	border: 1px solid blue;
+	margin: 50px;
+	padding: 20px;
+}
+
+.formtable3 {
+	width:600px;
+}
+
+.label {
+	text-align: right;
+	vertical-align:top;
+}
+
+.control {
+	margin-left: 20px;
+}
+.control2 {
+	margin-left: 20px;
+	text-align: center;
+}
+.control3 {
+	margin-left: 20px;
+	text-align: center;
+	margin-top:50px;
+}
+
+.control4 {
+	text-align: center;
+}
+
+.control5 {
+	text-align: right;
+}
+
+.error {
+	font-size: small;
+	color:red;
+	margin-left:10px;
+}
